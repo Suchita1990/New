@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6107" started-at="2020-03-03T09:40:35Z" finished-at="2020-03-03T09:40:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6107" started-at="2020-03-03T09:40:35Z" finished-at="2020-03-03T09:40:41Z">
+      <class name="AutoitFile.File_Uploading">
+        <test-method status="PASS" signature="tc_01()[pri:0, instance:AutoitFile.File_Uploading@402f32ff]" name="tc_01" duration-ms="6074" started-at="2020-03-03T15:10:35Z" finished-at="2020-03-03T15:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+      </class> <!-- AutoitFile.File_Uploading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
