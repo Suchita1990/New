@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testing Shastra]">
+  <parameter name="rollnumber" value="1003"/>
+  <test name="Regression Test(failed)">
+    <classes>
+      <class name="AnnotaionsPkg.TestAnnotations">
+        <methods>
+          <include name="m4"/>
+          <include name="m1"/>
+          <include name="m6"/>
+          <include name="m10"/>
+          <include name="m9"/>
+          <include name="m2"/>
+          <include name="m7"/>
+          <include name="m8"/>
+          <include name="m5"/>
+        </methods>
+      </class> <!-- AnnotaionsPkg.TestAnnotations -->
+    </classes>
+  </test> <!-- Regression Test(failed) -->
+</suite> <!-- Failed suite [Testing Shastra] -->
